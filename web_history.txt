@@ -1,0 +1,16 @@
+### The History of the Web: From Web 1.0 to Web 3.0
+
+---
+
+#### **Web 1.0: The Static Web (1990s - Early 2000s)**  
+Web 1.0, the early version of the internet, was characterized by static, read-only websites that offered limited interactivity. Launched in the 1990s, it primarily consisted of basic HTML pages where users could access information, but not contribute or interact. Content was created by developers and companies, and the internet functioned as a one-way communication channel. Popular sites like Yahoo! and AOL were gateways to this early digital world, which, while groundbreaking, lacked the dynamic features that would define later versions of the web.
+
+---
+
+#### **Web 2.0: The Social Web (Mid-2000s - Present)**  
+Web 2.0 emerged in the mid-2000s, shifting the internet from a static platform to a dynamic, interactive one. This era saw the rise of social media, user-generated content, and collaborative platforms like Facebook, YouTube, and Wikipedia. Thanks to advancements in web technologies, such as AJAX, users could now interact with sites in real time, create content, and engage in social networking. Web 2.0 also marked the dominance of tech giants like Google and Amazon, centralizing control over data, but also raising concerns about privacy and the power of big corporations.
+
+---
+
+#### **Web 3.0: The Decentralized Web (Emerging Future)**  
+Web 3.0, still in development, is defined by decentralization, blockchain technology, and user empowerment. Unlike Web 2.0’s centralized platforms, Web 3.0 aims to give individuals greater control over their data, identities, and online activities, using technologies like blockchain and smart contracts. It also envisions a more intelligent web, leveraging AI and machine learning for personalized, semantic experiences. Web 3.0 promises to reduce reliance on centralized services, fostering a more open and secure digital ecosystem with innovations like decentralized finance (DeFi) and NFTs, although its full realization is still emerging.
